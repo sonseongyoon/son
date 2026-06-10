@@ -6,7 +6,7 @@
 
 ## 📌 프로젝트 개요
 *   **프로젝트명**: Inbody Tracker (체성분 변화 기록 및 AI 피드백 건강관리 앱)
-*   **원격 저장소**: [GitHub - sonseongyoon/bluebull](https://github.com/sonseongyoon/bluebull.git)
+*   **원격 저장소**: [GitHub - sonseongyoon/son](https://github.com/sonseongyoon/son)
 *   **개발 환경**: Android SDK 35 (API 24+ 호환), Kotlin, Jetpack Compose UI
 *   **AI 모델**: `gemini-2.5-flash`
 
